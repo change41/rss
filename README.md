@@ -1,0 +1,2 @@
+# rss
+shadowsocks-rss
